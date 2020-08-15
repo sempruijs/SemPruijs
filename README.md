@@ -6,8 +6,8 @@ Not all of my code looks great to say it lightly, but I am 15 years old and impr
 
 ![MadeBySemPruijsGif](https://github.com/SemPruijs/SemPruijs/blob/master/WostAnimation12.gif)
 
-###Languages and Tools: <br>
-[<img align="left" alt="Unity" width="26px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][Display]
+### Languages and Tools: <br>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="100">
 
 <!--
 **SemPruijs/SemPruijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
