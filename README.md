@@ -1,6 +1,6 @@
 ### Hi :)
 
-My name is Sem Pruijs and I am currently working on my new game called Flyght! I'm learning a new keyboard layout that's called colemak.
+My name is Sem Pruijs and I am currently working on my new game called Flyght!
 I have summer vacation so plenty of time to work on Flyght. I'm also intrested in getting better in game development.
 Not all of my code looks great to say it lightly, but I am 15 years old and improving day by day!
 
