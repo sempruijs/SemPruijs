@@ -1,7 +1,7 @@
 ### Hi :)
 
 My name is Sem Pruijs and I am currently working on my new game called Flyght!
-I have summer vacation so plenty of time to work on Flyght. I'm also intrested in getting better in game development.
+I'm intrested in getting better in game development.
 Not all of my code looks great to say it lightly, but I am 15 years old and improving day by day!
 
 ![MadeBySemPruijsGif](https://github.com/SemPruijs/SemPruijs/blob/master/WostAnimation12.gif)
