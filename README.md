@@ -1,1 +1,1 @@
-![A fish from the game wosta swims from left to right. It stops in the middle, blinks two times and swims out of the view. Made by Sem Pruijs is shown. Sem Pruijs is written by hand](https://github.com/SemPruijs/SemPruijs/blob/master/WostAnimation12.gif)
+
